@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "245216343621",
+    "project_id": "leap-e2b88",
+    "storage_bucket": "leap-e2b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245216343621:android:00b61d12fcd519bd7ad52c",
+        "android_client_info": {
+          "package_name": "com.example.revisit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245216343621-kh2qp85f0aac8g1misk3h0jp0udjqebu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.revisit",
+            "certificate_hash": "1f05e7d4b0b4c6a9ed73196f5765de5432788cf1"
+          }
+        },
+        {
+          "client_id": "245216343621-i85b9qnpr3vjjudc33ikiv5g6kf1b6nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvqpUiMpMb68esUozF2wgPM5p26iGeDCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245216343621-i85b9qnpr3vjjudc33ikiv5g6kf1b6nv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245216343621-lj6um98s0lgj2onh1egdnie21abagjus.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.revisit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
